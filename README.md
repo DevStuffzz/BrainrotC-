@@ -1,5 +1,5 @@
 
-# C++ Code Slang Documentation - BrainrotC++
+# BrainrotC++
 
 This documentation provides an overview of custom macros designed to replace standard C++ keywords and syntax with fun, casual "slang". These macros can make your code look more relaxed and enjoyable while preserving the full functionality of C++.
 
